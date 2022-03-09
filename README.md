@@ -14,3 +14,4 @@
 - 04 : [Function](https://github.com/khairulhabibie/PHP-Dasar/tree/main/04)
 - 05 : [Array](https://github.com/khairulhabibie/PHP-Dasar/tree/main/05)
 - 06 : [Associative Array](https://github.com/khairulhabibie/PHP-Dasar/tree/main/06)
+- 07 : [POST && GET](https://github.com/khairulhabibie/PHP-Dasar/tree/main/06)
