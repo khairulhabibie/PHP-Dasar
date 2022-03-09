@@ -11,6 +11,6 @@
 - 01 : -
 - 02 : -
 - 03 : -
-- 04 : Function
-- 05 : Array
-- 06 : Associative Array
+- 04 : [Function](https://github.com/khairulhabibie/PHP-Dasar/tree/main/04)
+- 05 : [Array](https://github.com/khairulhabibie/PHP-Dasar/tree/main/05)
+- 06 : [Associative Array](https://github.com/khairulhabibie/PHP-Dasar/tree/main/06)
